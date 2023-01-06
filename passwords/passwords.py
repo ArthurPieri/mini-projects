@@ -1,5 +1,5 @@
 """
-This module contains functions related to passwords.
+This module contains simple functions related to passwords.
 """
 import random
 import string
@@ -57,3 +57,7 @@ def random_password_generator(
 
 def passphrase_generator(word_count: int) -> str:
     ...
+
+
+if __name__ == '__main__':
+    print(random_password_generator(12, True, True, True))
