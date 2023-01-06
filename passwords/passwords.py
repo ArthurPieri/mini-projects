@@ -57,6 +57,8 @@ def random_password_generator(
 
 def passphrase_generator(word_count: int) -> str:
     ...
+    # TODO: Implement this function
+    # by scrapping the web for a list of random words
 
 
 if __name__ == '__main__':
