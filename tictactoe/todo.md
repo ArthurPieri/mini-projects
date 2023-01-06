@@ -1,0 +1,7 @@
+- [ ] Board
+- [ ] Players
+- [ ] Win condition
+- [ ] Tie condition
+- [ ] Valid move
+- [ ] Turns
+- [ ] Use classes
